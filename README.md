@@ -3,9 +3,6 @@ H3GNNs: Harmonizing Heterophily and Homophily in GNNs via Self-Supervised Node E
 
 The complete codebase and datasets will be available soon.
 
-
-First download the heterophilic dataset from [Google Drive](https://drive.google.com/drive/folders/1qowziIF9zbTLCW3eWZQdaEWYCn5c23rB?usp=sharing)
-
 ## Dataset
 
 First, download the heterophilic dataset from [Google Drive](https://drive.google.com/drive/folders/1qowziIF9zbTLCW3eWZQdaEWYCn5c23rB?usp=sharing) and place it under `./data/heterophilic_data`.
