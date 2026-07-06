@@ -7,7 +7,7 @@ import scipy.io
 import os
 from os import path
 
-DATAPATH = '/heterophilic_data'  ### update accordingly
+DATAPATH = './data/heterophilic_data'  ### update accordingly
 
 
 def rand_train_test_idx(label, train_prop=0.5, valid_prop=0.25, ignore_negative=True):
